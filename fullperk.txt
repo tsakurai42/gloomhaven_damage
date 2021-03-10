@@ -1,0 +1,519 @@
+Number of attacks: 100000
+Base attack damage: 2
+Percentage of attacks at advantage: 0%
+Percentage of attacks at disadvantage: 0%
+-------------------------
+Class: Brute
+Average total damage: 2.53531
+Number of crits: 5742 (5.74%)
+Number of nulls: 5844 (5.84%)
+1 attacks to trigger a shuffle: 8.18%
+2 attacks to trigger a shuffle: 7.71%
+3 attacks to trigger a shuffle: 7.48%
+4 attacks to trigger a shuffle: 6.79%
+5 attacks to trigger a shuffle: 6.70%
+6 attacks to trigger a shuffle: 6.15%
+7 attacks to trigger a shuffle: 6.04%
+8 attacks to trigger a shuffle: 5.75%
+9 attacks to trigger a shuffle: 5.38%
+10 attacks to trigger a shuffle: 4.75%
+11 attacks to trigger a shuffle: 5.04%
+12 attacks to trigger a shuffle: 4.19%
+13 attacks to trigger a shuffle: 3.92%
+14 attacks to trigger a shuffle: 3.64%
+15 attacks to trigger a shuffle: 3.37%
+16 attacks to trigger a shuffle: 3.09%
+17 attacks to trigger a shuffle: 2.78%
+18 attacks to trigger a shuffle: 2.25%
+19 attacks to trigger a shuffle: 1.99%
+20 attacks to trigger a shuffle: 1.75%
+21 attacks to trigger a shuffle: 1.26%
+22 attacks to trigger a shuffle: 0.93%
+23 attacks to trigger a shuffle: 0.54%
+24 attacks to trigger a shuffle: 0.32%
+Add Target on 7.65%
+Pierce 2 on 7.65%
+Push 1 on 22.93%
+Stun on 7.72%
+Disarm on 3.87%
+Muddle on 3.79%
+Shield 1 on 3.87%
+-------------------------
+Class: Spellweaver
+Average total damage: 2.64857
+Number of crits: 5148 (5.15%)
+Number of nulls: 5211 (5.21%)
+1 attacks to trigger a shuffle: 7.58%
+2 attacks to trigger a shuffle: 6.46%
+3 attacks to trigger a shuffle: 6.30%
+4 attacks to trigger a shuffle: 6.46%
+5 attacks to trigger a shuffle: 6.03%
+6 attacks to trigger a shuffle: 5.83%
+7 attacks to trigger a shuffle: 5.80%
+8 attacks to trigger a shuffle: 5.40%
+9 attacks to trigger a shuffle: 5.22%
+10 attacks to trigger a shuffle: 4.62%
+11 attacks to trigger a shuffle: 4.52%
+12 attacks to trigger a shuffle: 4.36%
+13 attacks to trigger a shuffle: 3.97%
+14 attacks to trigger a shuffle: 3.60%
+15 attacks to trigger a shuffle: 3.38%
+16 attacks to trigger a shuffle: 3.09%
+17 attacks to trigger a shuffle: 3.14%
+18 attacks to trigger a shuffle: 2.43%
+19 attacks to trigger a shuffle: 2.36%
+20 attacks to trigger a shuffle: 2.03%
+21 attacks to trigger a shuffle: 1.61%
+22 attacks to trigger a shuffle: 1.58%
+23 attacks to trigger a shuffle: 1.46%
+24 attacks to trigger a shuffle: 1.07%
+25 attacks to trigger a shuffle: 0.83%
+26 attacks to trigger a shuffle: 0.54%
+27 attacks to trigger a shuffle: 0.32%
+Dark on 3.56%
+Earth on 3.40%
+Fire on 6.80%
+Immobilize on 3.43%
+Air on 3.41%
+Stun on 3.44%
+Ice on 6.78%
+Curse on 3.45%
+Wound on 3.51%
+Light on 3.35%
+-------------------------
+Class: Soothsinger
+Average total damage: 3.79005
+Number of crits: 10842 (10.84%)
+Number of nulls: 10636 (10.64%)
+1 attacks to trigger a shuffle: 15.68%
+2 attacks to trigger a shuffle: 13.84%
+3 attacks to trigger a shuffle: 12.82%
+4 attacks to trigger a shuffle: 11.70%
+5 attacks to trigger a shuffle: 10.35%
+6 attacks to trigger a shuffle: 8.74%
+7 attacks to trigger a shuffle: 7.82%
+8 attacks to trigger a shuffle: 6.37%
+9 attacks to trigger a shuffle: 5.01%
+10 attacks to trigger a shuffle: 3.73%
+11 attacks to trigger a shuffle: 2.67%
+12 attacks to trigger a shuffle: 1.28%
+Immobilize on 7.02%
+Curse on 35.63%
+Wound on 7.04%
+Muddle on 7.22%
+Disarm on 7.12%
+Poison on 7.11%
+Stun on 7.21%
+-------------------------
+Class: Elementalist
+Average total damage: 2.38308
+Number of crits: 4392 (4.39%)
+Number of nulls: 4440 (4.44%)
+1 attacks to trigger a shuffle: 5.98%
+2 attacks to trigger a shuffle: 6.11%
+3 attacks to trigger a shuffle: 5.27%
+4 attacks to trigger a shuffle: 5.65%
+5 attacks to trigger a shuffle: 5.08%
+6 attacks to trigger a shuffle: 5.16%
+7 attacks to trigger a shuffle: 4.89%
+8 attacks to trigger a shuffle: 4.99%
+9 attacks to trigger a shuffle: 4.22%
+10 attacks to trigger a shuffle: 4.47%
+11 attacks to trigger a shuffle: 4.31%
+12 attacks to trigger a shuffle: 4.05%
+13 attacks to trigger a shuffle: 3.85%
+14 attacks to trigger a shuffle: 3.71%
+15 attacks to trigger a shuffle: 3.58%
+16 attacks to trigger a shuffle: 3.32%
+17 attacks to trigger a shuffle: 3.14%
+18 attacks to trigger a shuffle: 2.77%
+19 attacks to trigger a shuffle: 2.55%
+20 attacks to trigger a shuffle: 2.45%
+21 attacks to trigger a shuffle: 1.98%
+22 attacks to trigger a shuffle: 2.15%
+23 attacks to trigger a shuffle: 1.93%
+24 attacks to trigger a shuffle: 1.76%
+25 attacks to trigger a shuffle: 1.35%
+26 attacks to trigger a shuffle: 1.36%
+27 attacks to trigger a shuffle: 1.00%
+28 attacks to trigger a shuffle: 0.88%
+29 attacks to trigger a shuffle: 0.83%
+30 attacks to trigger a shuffle: 0.63%
+31 attacks to trigger a shuffle: 0.34%
+32 attacks to trigger a shuffle: 0.23%
+Air on 11.60%
+Earth on 11.83%
+Push 1 on 5.91%
+Ice on 11.82%
+Fire on 11.81%
+Wound on 2.90%
+Add Target on 2.91%
+Stun on 2.92%
+-------------------------
+Class: Doomstalker
+Average total damage: 2.8635
+Number of crits: 6757 (6.76%)
+Number of nulls: 6809 (6.81%)
+1 attacks to trigger a shuffle: 9.47%
+2 attacks to trigger a shuffle: 8.97%
+3 attacks to trigger a shuffle: 8.46%
+4 attacks to trigger a shuffle: 8.06%
+5 attacks to trigger a shuffle: 7.44%
+6 attacks to trigger a shuffle: 7.02%
+7 attacks to trigger a shuffle: 6.79%
+8 attacks to trigger a shuffle: 6.17%
+9 attacks to trigger a shuffle: 5.78%
+10 attacks to trigger a shuffle: 5.43%
+11 attacks to trigger a shuffle: 4.80%
+12 attacks to trigger a shuffle: 4.48%
+13 attacks to trigger a shuffle: 3.72%
+14 attacks to trigger a shuffle: 3.39%
+15 attacks to trigger a shuffle: 2.57%
+16 attacks to trigger a shuffle: 2.65%
+17 attacks to trigger a shuffle: 1.86%
+18 attacks to trigger a shuffle: 1.54%
+19 attacks to trigger a shuffle: 1.00%
+20 attacks to trigger a shuffle: 0.40%
+Immobilize on 4.57%
+Add Target on 9.08%
+Muddle on 4.54%
+Stun on 4.52%
+Wound on 4.52%
+Poison on 4.55%
+-------------------------
+Class: Sawbones
+Average total damage: 2.87618
+Number of crits: 9433 (9.43%)
+Number of nulls: 9288 (9.29%)
+1 attacks to trigger a shuffle: 12.94%
+2 attacks to trigger a shuffle: 12.36%
+3 attacks to trigger a shuffle: 11.40%
+4 attacks to trigger a shuffle: 11.00%
+5 attacks to trigger a shuffle: 9.76%
+6 attacks to trigger a shuffle: 8.51%
+7 attacks to trigger a shuffle: 7.77%
+8 attacks to trigger a shuffle: 6.27%
+9 attacks to trigger a shuffle: 5.66%
+10 attacks to trigger a shuffle: 4.60%
+11 attacks to trigger a shuffle: 3.83%
+12 attacks to trigger a shuffle: 2.85%
+13 attacks to trigger a shuffle: 2.01%
+14 attacks to trigger a shuffle: 1.03%
+Heal 3 on 12.41%
+Stun on 6.29%
+Wound on 25.05%
+Refresh Item on 6.28%
+Immobilize on 12.61%
+-------------------------
+Class: BeastTyrant
+Average total damage: 2.69838
+Number of crits: 6522 (6.52%)
+Number of nulls: 6412 (6.41%)
+1 attacks to trigger a shuffle: 8.95%
+2 attacks to trigger a shuffle: 8.30%
+3 attacks to trigger a shuffle: 8.03%
+4 attacks to trigger a shuffle: 7.82%
+5 attacks to trigger a shuffle: 7.44%
+6 attacks to trigger a shuffle: 7.14%
+7 attacks to trigger a shuffle: 6.39%
+8 attacks to trigger a shuffle: 5.95%
+9 attacks to trigger a shuffle: 5.61%
+10 attacks to trigger a shuffle: 5.21%
+11 attacks to trigger a shuffle: 4.79%
+12 attacks to trigger a shuffle: 4.41%
+13 attacks to trigger a shuffle: 3.72%
+14 attacks to trigger a shuffle: 3.78%
+15 attacks to trigger a shuffle: 3.39%
+16 attacks to trigger a shuffle: 2.72%
+17 attacks to trigger a shuffle: 2.29%
+18 attacks to trigger a shuffle: 1.78%
+19 attacks to trigger a shuffle: 1.20%
+20 attacks to trigger a shuffle: 0.56%
+21 attacks to trigger a shuffle: 0.53%
+Heal 1 on 26.27%
+Wound on 8.73%
+Immobilize on 8.75%
+Earth on 8.73%
+-------------------------
+Class: Berserker
+Average total damage: 3.1114
+Number of crits: 8815 (8.82%)
+Number of nulls: 8902 (8.90%)
+1 attacks to trigger a shuffle: 12.32%
+2 attacks to trigger a shuffle: 11.91%
+3 attacks to trigger a shuffle: 10.78%
+4 attacks to trigger a shuffle: 10.49%
+5 attacks to trigger a shuffle: 9.01%
+6 attacks to trigger a shuffle: 8.46%
+7 attacks to trigger a shuffle: 7.65%
+8 attacks to trigger a shuffle: 6.19%
+9 attacks to trigger a shuffle: 5.53%
+10 attacks to trigger a shuffle: 5.16%
+11 attacks to trigger a shuffle: 4.36%
+12 attacks to trigger a shuffle: 3.38%
+13 attacks to trigger a shuffle: 2.33%
+14 attacks to trigger a shuffle: 1.69%
+15 attacks to trigger a shuffle: 0.76%
+Heal 1 on 11.68%
+Stun on 11.69%
+Wound on 23.43%
+Fire on 23.45%
+Disarm on 5.85%
+-------------------------
+Class: Plagueherald
+Average total damage: 2.59391
+Number of crits: 5574 (5.57%)
+Number of nulls: 5543 (5.54%)
+1 attacks to trigger a shuffle: 8.09%
+2 attacks to trigger a shuffle: 7.39%
+3 attacks to trigger a shuffle: 7.06%
+4 attacks to trigger a shuffle: 6.51%
+5 attacks to trigger a shuffle: 6.07%
+6 attacks to trigger a shuffle: 5.92%
+7 attacks to trigger a shuffle: 5.95%
+8 attacks to trigger a shuffle: 5.76%
+9 attacks to trigger a shuffle: 5.39%
+10 attacks to trigger a shuffle: 4.91%
+11 attacks to trigger a shuffle: 4.79%
+12 attacks to trigger a shuffle: 4.16%
+13 attacks to trigger a shuffle: 4.15%
+14 attacks to trigger a shuffle: 3.45%
+15 attacks to trigger a shuffle: 3.63%
+16 attacks to trigger a shuffle: 2.92%
+17 attacks to trigger a shuffle: 2.74%
+18 attacks to trigger a shuffle: 2.55%
+19 attacks to trigger a shuffle: 2.10%
+20 attacks to trigger a shuffle: 1.96%
+21 attacks to trigger a shuffle: 1.47%
+22 attacks to trigger a shuffle: 1.20%
+23 attacks to trigger a shuffle: 1.03%
+24 attacks to trigger a shuffle: 0.59%
+25 attacks to trigger a shuffle: 0.22%
+Immobilize on 7.42%
+Poison on 11.12%
+Air on 11.24%
+Stun on 7.47%
+Curse on 7.34%
+-------------------------
+Class: Nightshroud
+Average total damage: 2.5261
+Number of crits: 7997 (8.00%)
+Number of nulls: 7888 (7.89%)
+1 attacks to trigger a shuffle: 11.39%
+2 attacks to trigger a shuffle: 10.45%
+3 attacks to trigger a shuffle: 9.81%
+4 attacks to trigger a shuffle: 8.93%
+5 attacks to trigger a shuffle: 8.47%
+6 attacks to trigger a shuffle: 8.26%
+7 attacks to trigger a shuffle: 6.98%
+8 attacks to trigger a shuffle: 6.51%
+9 attacks to trigger a shuffle: 6.16%
+10 attacks to trigger a shuffle: 5.18%
+11 attacks to trigger a shuffle: 4.44%
+12 attacks to trigger a shuffle: 3.95%
+13 attacks to trigger a shuffle: 3.13%
+14 attacks to trigger a shuffle: 2.61%
+15 attacks to trigger a shuffle: 1.95%
+16 attacks to trigger a shuffle: 1.15%
+17 attacks to trigger a shuffle: 0.65%
+Muddle on 31.50%
+Curse on 10.56%
+Dark on 10.53%
+Invisibility on 10.46%
+Add Target on 5.36%
+Heal 1 on 10.49%
+-------------------------
+Class: Summoner
+Average total damage: 2.68925
+Number of crits: 6443 (6.44%)
+Number of nulls: 6697 (6.70%)
+1 attacks to trigger a shuffle: 8.84%
+2 attacks to trigger a shuffle: 8.96%
+3 attacks to trigger a shuffle: 8.44%
+4 attacks to trigger a shuffle: 7.89%
+5 attacks to trigger a shuffle: 7.43%
+6 attacks to trigger a shuffle: 6.99%
+7 attacks to trigger a shuffle: 6.74%
+8 attacks to trigger a shuffle: 6.04%
+9 attacks to trigger a shuffle: 5.40%
+10 attacks to trigger a shuffle: 5.09%
+11 attacks to trigger a shuffle: 4.52%
+12 attacks to trigger a shuffle: 4.39%
+13 attacks to trigger a shuffle: 3.96%
+14 attacks to trigger a shuffle: 3.52%
+15 attacks to trigger a shuffle: 3.21%
+16 attacks to trigger a shuffle: 2.42%
+17 attacks to trigger a shuffle: 2.02%
+18 attacks to trigger a shuffle: 1.63%
+19 attacks to trigger a shuffle: 1.23%
+20 attacks to trigger a shuffle: 0.84%
+21 attacks to trigger a shuffle: 0.46%
+Dark on 4.30%
+Heal 1 on 25.88%
+Wound on 8.67%
+Poison on 8.67%
+Air on 4.34%
+Earth on 4.36%
+Fire on 4.32%
+-------------------------
+Class: Quartermaster
+Average total damage: 2.77826
+Number of crits: 8343 (8.34%)
+Number of nulls: 8345 (8.34%)
+1 attacks to trigger a shuffle: 12.13%
+2 attacks to trigger a shuffle: 11.06%
+3 attacks to trigger a shuffle: 10.28%
+4 attacks to trigger a shuffle: 9.27%
+5 attacks to trigger a shuffle: 8.61%
+6 attacks to trigger a shuffle: 7.93%
+7 attacks to trigger a shuffle: 7.45%
+8 attacks to trigger a shuffle: 6.60%
+9 attacks to trigger a shuffle: 5.99%
+10 attacks to trigger a shuffle: 5.12%
+11 attacks to trigger a shuffle: 4.63%
+12 attacks to trigger a shuffle: 3.67%
+13 attacks to trigger a shuffle: 3.11%
+14 attacks to trigger a shuffle: 2.07%
+15 attacks to trigger a shuffle: 1.32%
+16 attacks to trigger a shuffle: 0.77%
+Pierce 3 on 11.21%
+Muddle on 16.76%
+Refresh an item on 16.61%
+Stun on 5.58%
+Add Target on 5.60%
+-------------------------
+Class: Sunkeeper
+Average total damage: 2.94066
+Number of crits: 10039 (10.04%)
+Number of nulls: 9897 (9.90%)
+1 attacks to trigger a shuffle: 14.17%
+2 attacks to trigger a shuffle: 13.08%
+3 attacks to trigger a shuffle: 12.11%
+4 attacks to trigger a shuffle: 11.03%
+5 attacks to trigger a shuffle: 10.22%
+6 attacks to trigger a shuffle: 8.46%
+7 attacks to trigger a shuffle: 7.70%
+8 attacks to trigger a shuffle: 6.46%
+9 attacks to trigger a shuffle: 5.51%
+10 attacks to trigger a shuffle: 4.40%
+11 attacks to trigger a shuffle: 3.47%
+12 attacks to trigger a shuffle: 2.38%
+13 attacks to trigger a shuffle: 1.01%
+Shield 1 on 13.44%
+Light on 26.54%
+Heal 1 on 26.63%
+Stun on 6.64%
+-------------------------
+Class: Mindthief
+Average total damage: 3.06834
+Number of crits: 9899 (9.90%)
+Number of nulls: 9962 (9.96%)
+1 attacks to trigger a shuffle: 14.04%
+2 attacks to trigger a shuffle: 12.86%
+3 attacks to trigger a shuffle: 11.96%
+4 attacks to trigger a shuffle: 10.88%
+5 attacks to trigger a shuffle: 10.00%
+6 attacks to trigger a shuffle: 9.22%
+7 attacks to trigger a shuffle: 7.72%
+8 attacks to trigger a shuffle: 6.86%
+9 attacks to trigger a shuffle: 5.49%
+10 attacks to trigger a shuffle: 4.35%
+11 attacks to trigger a shuffle: 3.33%
+12 attacks to trigger a shuffle: 2.15%
+13 attacks to trigger a shuffle: 1.13%
+Immobilize on 13.24%
+Muddle on 26.84%
+Disarm on 6.65%
+Ice on 13.36%
+Push 1 on 20.04%
+Stun on 6.71%
+-------------------------
+Class: Cragheart
+Average total damage: 2.58417
+Number of crits: 6253 (6.25%)
+Number of nulls: 6270 (6.27%)
+1 attacks to trigger a shuffle: 9.08%
+2 attacks to trigger a shuffle: 8.34%
+3 attacks to trigger a shuffle: 7.91%
+4 attacks to trigger a shuffle: 7.55%
+5 attacks to trigger a shuffle: 7.22%
+6 attacks to trigger a shuffle: 6.45%
+7 attacks to trigger a shuffle: 6.44%
+8 attacks to trigger a shuffle: 5.62%
+9 attacks to trigger a shuffle: 5.14%
+10 attacks to trigger a shuffle: 5.14%
+11 attacks to trigger a shuffle: 4.93%
+12 attacks to trigger a shuffle: 4.31%
+13 attacks to trigger a shuffle: 3.83%
+14 attacks to trigger a shuffle: 3.39%
+15 attacks to trigger a shuffle: 3.42%
+16 attacks to trigger a shuffle: 2.86%
+17 attacks to trigger a shuffle: 2.32%
+18 attacks to trigger a shuffle: 2.05%
+19 attacks to trigger a shuffle: 1.68%
+20 attacks to trigger a shuffle: 1.09%
+21 attacks to trigger a shuffle: 0.81%
+22 attacks to trigger a shuffle: 0.40%
+Air on 8.39%
+Earth on 16.69%
+Push 2 on 8.28%
+Immobilize on 8.40%
+Muddle on 8.31%
+-------------------------
+Class: Scoundrel
+Average total damage: 3.23174
+Number of crits: 11458 (11.46%)
+Number of nulls: 11578 (11.58%)
+1 attacks to trigger a shuffle: 16.70%
+2 attacks to trigger a shuffle: 15.20%
+3 attacks to trigger a shuffle: 13.44%
+4 attacks to trigger a shuffle: 12.10%
+5 attacks to trigger a shuffle: 10.67%
+6 attacks to trigger a shuffle: 8.97%
+7 attacks to trigger a shuffle: 7.70%
+8 attacks to trigger a shuffle: 6.01%
+9 attacks to trigger a shuffle: 4.53%
+10 attacks to trigger a shuffle: 3.09%
+11 attacks to trigger a shuffle: 1.58%
+Pierce 3 on 15.45%
+Muddle on 15.43%
+Poison on 31.01%
+Invisibility on 7.69%
+-------------------------
+Class: Tinkerer
+Average total damage: 2.63219
+Number of crits: 5625 (5.62%)
+Number of nulls: 5478 (5.48%)
+1 attacks to trigger a shuffle: 7.48%
+2 attacks to trigger a shuffle: 7.41%
+3 attacks to trigger a shuffle: 6.86%
+4 attacks to trigger a shuffle: 7.09%
+5 attacks to trigger a shuffle: 5.95%
+6 attacks to trigger a shuffle: 6.43%
+7 attacks to trigger a shuffle: 5.81%
+8 attacks to trigger a shuffle: 5.51%
+9 attacks to trigger a shuffle: 5.36%
+10 attacks to trigger a shuffle: 5.10%
+11 attacks to trigger a shuffle: 4.86%
+12 attacks to trigger a shuffle: 4.38%
+13 attacks to trigger a shuffle: 3.96%
+14 attacks to trigger a shuffle: 3.50%
+15 attacks to trigger a shuffle: 3.65%
+16 attacks to trigger a shuffle: 3.04%
+17 attacks to trigger a shuffle: 2.88%
+18 attacks to trigger a shuffle: 2.30%
+19 attacks to trigger a shuffle: 2.18%
+20 attacks to trigger a shuffle: 1.93%
+21 attacks to trigger a shuffle: 1.26%
+22 attacks to trigger a shuffle: 1.12%
+23 attacks to trigger a shuffle: 0.98%
+24 attacks to trigger a shuffle: 0.73%
+25 attacks to trigger a shuffle: 0.23%
+Heal 2 on 7.39%
+Fire on 7.38%
+Muddle on 11.08%
+Immobilize on 7.38%
+Wound on 7.45%
+Add Target on 3.67%
+-------------------------
+Time to run script: 0:00:07.900287
